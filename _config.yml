@@ -2,12 +2,13 @@ name: GQ Sound
 favicon: null
 layout_spectrum: 0.17013812786899507
 typography_spectrum: 0.9445021240971982
+title: 'GQ Sound '
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74057422-1
   facebook: null
   twitter: null
 opengraph:
